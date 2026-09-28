@@ -36,6 +36,15 @@ will fail eval issues designed around that family.
 |---|---|---|---|
 |  |  |  |  |
 
+| Check | Evidence | Pass condition | Weight |
+|---|---|---|---|
+|   maintainer_active| Last 5 default-branch commit dates(repo-facts block)  |  At least 1 commit within the last 90 days |  required |
+| repo_in_use | Archived flag + last push to any branch (repo-facts block) | Repo is not archived AND last push within 365 days (of the capture date in eval mode; of today in live mode) | required |
+|issue_scope_small| Issue body + linked files| Issue mentions a single function/file, no "rewrite" or "redesign" language| preferred|
+|not_claimed|Comment thread|  no linked open PR|required  
+| allows_ai_contributions| Contribution policy line in repo-facts block| Policy text does not prohibit AI-generated code/documentation| required |
+
+
 ## Verdict rule
 
 <!-- State how the grades above combine into accept or reject, and how
