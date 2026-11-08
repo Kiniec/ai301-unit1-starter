@@ -37,3 +37,5 @@ rubric accepts, never to change a verdict: fit cannot rescue an issue
 your rubric rejects, and cannot sink one it accepts. -->
 
 (Write a few sentences here.)
+
+I am new to the open-source world. I have used java, javascript, python, amazon web services, html, css, tailwind css, nodejs, nextjs, jetbrains suite, anaconda, mysql. I would like to avoid #c, ruby on rails. 
