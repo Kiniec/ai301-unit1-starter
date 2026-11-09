@@ -38,4 +38,4 @@ your rubric rejects, and cannot sink one it accepts. -->
 
 (Write a few sentences here.)
 
-I am new to the open-source world. I have used java, javascript, python, amazon web services, html, css, tailwind css, nodejs, nextjs, jetbrains suite, anaconda, mysql. I would like to avoid #c, ruby on rails. 
+Hello! I'm new to open source and this will be my first contribution. I've worked most with Java, JavaScript, and Python, and I've built web projects using HTML, CSS, Tailwind CSS, Node.js, Next.js and AWS cloud services. I've also used MySQL for databases, and I work day to day in Microsoft VS code. I'd like to get better at reading an unfamiliar codebase, writing tests, and following a project's contribution conventions. I'd prefer issues in JavaScript/TypeScript, Python, or Java, ideally small, well-scoped bug fixes or documentation-adjacent code changes with clear reproduction steps. Please avoid issues that need C and C# or Ruby on Rails.
